@@ -1,0 +1,14 @@
+.grid {
+  margin: 30px 0 0;
+}
+
+.visualize-button {
+  background-color: green;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 14px;
+}
